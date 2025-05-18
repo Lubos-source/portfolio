@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd6a6e31.chunk.css",
+    "main.js": "/static/js/main.736f16d0.chunk.js",
+    "main.js.map": "/static/js/main.736f16d0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.351e9c47.js",
+    "runtime-main.js.map": "/static/js/runtime-main.351e9c47.js.map",
+    "static/js/2.a99ed2f4.chunk.js": "/static/js/2.a99ed2f4.chunk.js",
+    "static/js/2.a99ed2f4.chunk.js.map": "/static/js/2.a99ed2f4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a9eb6b3026754be560cbf311ddb08198.js": "/precache-manifest.a9eb6b3026754be560cbf311ddb08198.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bd6a6e31.chunk.css.map": "/static/css/main.bd6a6e31.chunk.css.map",
+    "static/js/2.a99ed2f4.chunk.js.LICENSE.txt": "/static/js/2.a99ed2f4.chunk.js.LICENSE.txt",
+    "static/media/bannananowork.png": "/static/media/bannananowork.527bc4b4.png",
+    "static/media/bannanaworking.png": "/static/media/bannanaworking.4ebadf4c.png",
+    "static/media/centerdiv.png": "/static/media/centerdiv.ad039194.png",
+    "static/media/consolelog.png": "/static/media/consolelog.fe933d8e.png",
+    "static/media/divangry.png": "/static/media/divangry.39a6002c.png",
+    "static/media/itworks.png": "/static/media/itworks.8f0fa526.png",
+    "static/media/npminstall.png": "/static/media/npminstall.908636b8.png",
+    "static/media/todofix.png": "/static/media/todofix.2f3ad71a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.351e9c47.js",
+    "static/js/2.a99ed2f4.chunk.js",
+    "static/css/main.bd6a6e31.chunk.css",
+    "static/js/main.736f16d0.chunk.js"
+  ]
+}
