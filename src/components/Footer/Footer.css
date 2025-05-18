@@ -1,0 +1,13 @@
+footer {
+    background: rgba(128, 128, 128, 0.5); /* šedá s 50% průhledností */
+    width: 50vw;
+    margin: 30px auto 60px auto;
+    padding: 1rem 2rem;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+footer p {
+    color: var(--second-color);
+    margin: 0;
+}
