@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bd6a6e31.chunk.css",
+    "main.js": "/portfolio/static/js/main.736f16d0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.736f16d0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8940859c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8940859c.js.map",
+    "static/js/2.a99ed2f4.chunk.js": "/portfolio/static/js/2.a99ed2f4.chunk.js",
+    "static/js/2.a99ed2f4.chunk.js.map": "/portfolio/static/js/2.a99ed2f4.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f8142fc5c03c2b9e2cc250b3b0567285.js": "/portfolio/precache-manifest.f8142fc5c03c2b9e2cc250b3b0567285.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.bd6a6e31.chunk.css.map": "/portfolio/static/css/main.bd6a6e31.chunk.css.map",
+    "static/js/2.a99ed2f4.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a99ed2f4.chunk.js.LICENSE.txt",
+    "static/media/bannananowork.png": "/portfolio/static/media/bannananowork.527bc4b4.png",
+    "static/media/bannanaworking.png": "/portfolio/static/media/bannanaworking.4ebadf4c.png",
+    "static/media/centerdiv.png": "/portfolio/static/media/centerdiv.ad039194.png",
+    "static/media/consolelog.png": "/portfolio/static/media/consolelog.fe933d8e.png",
+    "static/media/divangry.png": "/portfolio/static/media/divangry.39a6002c.png",
+    "static/media/itworks.png": "/portfolio/static/media/itworks.8f0fa526.png",
+    "static/media/npminstall.png": "/portfolio/static/media/npminstall.908636b8.png",
+    "static/media/todofix.png": "/portfolio/static/media/todofix.2f3ad71a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8940859c.js",
+    "static/js/2.a99ed2f4.chunk.js",
+    "static/css/main.bd6a6e31.chunk.css",
+    "static/js/main.736f16d0.chunk.js"
+  ]
+}
