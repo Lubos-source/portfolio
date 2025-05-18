@@ -2,11 +2,11 @@ import React from "react";
 import './Publications.css';
 import { PUBLICATIONS } from '../../Util/data';
 
-const formatDate = (dateString) => {
-  const options = { year: 'numeric', month: 'short' };
-  const date = new Date(dateString);
-  return date.toLocaleDateString('en-US', options);
-};
+//const formatDate = (dateString) => {
+//  const options = { year: 'numeric', month: 'short' };
+//  const date = new Date(dateString);
+//  return date.toLocaleDateString('en-US', options);
+//};
 
 const highlightText = (text) => {
   // Pattern to highlight "Spotlight" and "Oral"
@@ -52,7 +52,7 @@ const Publications = () => {
                 <h2 onClick={() => window.open(pub.link, "_blank")}>
                   {highlightText(pub.name)}
                 </h2>
-                <p className="publication-date">{formatDate(pub.date)}</p>
+                <p className="publication-date">{pub.date}</p>
                 <p className="publication-venue">{highlightText(pub.journal)}</p>
                 <p style={{ fontStyle: 'italic' }}>{formatAuthors(pub.authors)}</p>
                 <div className="publication-links">
